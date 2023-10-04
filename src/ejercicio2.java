@@ -9,6 +9,6 @@ public class ejercicio2 {
         System.out.println("introduce los Grados:");
         g = scanner.nextInt();
 
-        System.out.println("Quieres pasarlos a Fahrenheit o Kelvin? escriba :")
+        System.out.println("Quieres pasarlos a Fahrenheit o Kelvin? escriba :");
     }
 }
